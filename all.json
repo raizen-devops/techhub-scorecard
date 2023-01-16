@@ -44,16 +44,6 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "non-valid-system"
-    },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 20,
-    "scoreSuccess": "failure",
-    "scoringReviewer": "n/a"
-  },
-  {
-    "entityRef": {
-      "kind": "system",
       "name": "raizenflow-web"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
