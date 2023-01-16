@@ -1,6 +1,6 @@
 {
   "entityRef": {
-    "kind": "system",
+    "kind": "service",
     "name": "raizenflow-web"
   },
   "generatedDateTimeUtc": "2021-07-22 10:00",
