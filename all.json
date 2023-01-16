@@ -43,13 +43,13 @@
   },
   {
     "entityRef": {
-      "kind": "service",
+      "kind": "component",
       "name": "raizenflow-web"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
-    "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "scoringReviewer": "padupe",
+    "scoringReviewDate": "2023-01-04T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
