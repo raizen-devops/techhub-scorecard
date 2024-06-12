@@ -1,7 +1,7 @@
 {
   "entityRef": {
-    "kind": "service",
-    "name": "raizenflow"
+    "kind": "component",
+    "name": "raizen-power-brain-api-distributor-demonstrative"
   },
   "generatedDateTimeUtc": "2021-07-22 10:00",
   "scorePercent": 57,
